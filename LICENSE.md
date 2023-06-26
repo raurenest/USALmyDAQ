@@ -1,0 +1,1 @@
+This software developed by the Department of Applied Physics of the University of Salamanca (Spain) is under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
